@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+    <port>4444</port>
+    <hostname>localhost</hostname>
+    <boardsize>20</boardsize>
+</config>
